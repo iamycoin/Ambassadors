@@ -12,10 +12,10 @@ Become one of our 5 Ambassadors!
 <p>5. As well you must proof you are genuine by sending me your CV and <b>LinkedIn Acc URL</b>.</p>
 <p>6. Send the proof of your work, your MyCoin Address(bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp) and onion Node address(sp54l6svddwizrgq.onion) to: </p>
 <pre>mycoin@onionmail.org</pre>
-<p>7. Once is confirmed your proof of work and you are approved, your MyCoin Address(bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp) & your Node Addresssp54l6svddwizrgq.onion) will be published by me on the list bellow(<b>Qualified MyCoin Ambassadors</b>) and you will be reward with 200k MyCoin Coins ASAP!</p>
+<p>7. Once is confirmed your proof of work and you are approved, your MyCoin Address(bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp) & your Node Addresssp54l6svddwizrgq.onion) will be published by me on the list bellow(<b>Qualified MyCoin Ambassadors</b>) and you will be reward with <b>200k MyCoin Coins ASAP</b>!</p>
 
 
-<h4>Warning: is not required to send any coins to us or to this MyCoin Address:bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp in order to be published in Qualified MyCoin Ambassadors, all what you have to do is to do what is written in the 8(eight) steps. Do not send any coins to us never and nowhere!</h4>
+<h4>Warning: is not required to send any coins to us or to this MyCoin Address:bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp in order to be published in Qualified MyCoin Ambassadors, all what you have to do is to do what is written in the 7(seven) steps. Do not send any coins to us never and nowhere!</h4>
 
 <p><b>Only who deserve to become MyCoin Ambassador will be confirmed, there is not eunogh to follow all the steps you must be approved by me.</b></p>
 
